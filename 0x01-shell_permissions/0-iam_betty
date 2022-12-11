@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo chown betty some 0-iam_betty
